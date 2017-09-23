@@ -1,1 +1,1 @@
-# WAYC
+# WAYC-CAPSTONE
